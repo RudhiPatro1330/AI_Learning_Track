@@ -25,3 +25,6 @@ print("Values ",v)
 lt=dicts.items()
 print(lt)
 
+
+for x in dicts:
+    print(x,end=" ")
